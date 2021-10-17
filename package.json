@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@recordreplay/playwright": "^1.10.6",
+    "@recordreplay/recordings-cli": "^0.4.1",
     "next": "11.1.2",
     "prisma": "^3.2.1",
     "react": "17.0.2",
